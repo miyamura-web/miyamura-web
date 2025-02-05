@@ -32,6 +32,10 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miyamura-web&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamura-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=miyamura-web&style=for-the-badge&color=brightgreen)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=miyamura-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
