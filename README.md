@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Niladri Halder
 
+
+
 🎓 *Economics and Management Student*  
 💼 *Aspiring Research Analyst*  
 
@@ -21,36 +23,18 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 
 ---
 
-## 🚀 *Key Projects*
-### *[Crypto Trend Analysis via Python]
-- Analyzed cryptocurrency market trends and processed 100,000+ data points.
-- Improved Python workflows to reduce data preprocessing time by 30%.
 
-### *[Univariate Analysis via Power BI]
-- Designed a Power BI dashboard with advanced visualizations like box plots and histograms.
-- Enhanced decision-making efficiency by 30%.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/goyank_03?igsh=MWxrdm5yN2NqNjZvNg==) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niladrih03@gmail.com) 
 
-### *[Digital Music Store Analysis via SQL]
-- Conducted data wrangling and key insights extraction to support business growth decisions.
-- Improved processing efficiency by 40%.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=miyamura-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=miyamura-web&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miyamura-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### *[The Great Depression Analysis (1929) via Power BI]
-- Developed an interactive dashboard to analyze economic trends and bank failures from 1919–1940.
-- Tracked 6+ metrics across 20 years of data.
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=miyamura-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
+[![](https://visitcount.itsvg.in/api?id=miyamura-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 *Achievements*
-- *Qualified IIT JAM*  
-- *1st Prize in Inter-College Scientific Poster Competition*  
-- *Ranked 3rd in Graduation*  
-- Led a research team of 5, improving presentation clarity by 20%.
-
----
-
-## 📬 *Connect with Me*
-- *Email*: niladrih03@gmail.com
-- *LinkedIn*: [linkedin.com/in/niladrih03](https://www.linkedin.com/in/niladrih03/)  
-
----
 
