@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niladri Halder
+# 👋 Hi, I'm Niladri
 
 
 
