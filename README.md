@@ -16,10 +16,11 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 ---
 
 ## 💻 *Technical Skills*
-- *Programming & Analysis*: Python, R, SQL, Power BI, MS Excel, HTML  
+- *Programming & Analysis*: Python, R, SQL, Power BI, MS Excel, HTML
+- *Project Management & Workflow*: JIRA
 - *Visualization Tools*: Power BI, Canva, PowerPoint  
-- *Productivity Tools*: MS Word  
-- *Non-Technical Skills*: Analytical Thinking, Communication, Leadership, Time Management  
+- *Productivity & Business Tools*: MS Office (Excel, Word, PowerPoint
+- *Non-Technical Skills*: Analytical Thinking, Communication, Leadership, Time Management ,   
 
 ---
 
