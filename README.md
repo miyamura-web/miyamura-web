@@ -5,7 +5,7 @@
 #### 🎓 *Economics and Management Student*  
 #### 💼 *Aspiring Research Analyst*  
 
-Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in science and economics with hands-on technical expertise.
+Welcome to my GitHub profile! Here, you’ll find projects and resources that showcase my skills in data analysis, visualization, and programming. My background combines a strong foundation in management and economics with hands on technical expertise.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,11 +16,11 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 *Technical Skills*
-- *Programming & Analysis*: Python, R, SQL, Power BI, MS Excel, HTML
-- *Project Management & Workflow*: JIRA
-- *Visualization Tools*: Power BI, Canva, PowerPoint  
-- *Productivity & Business Tools*: MS Office (Excel, Word, PowerPoint)
-- *Non-Technical Skills*: Analytical Thinking, Communication, Leadership, Time Management 
+- *Programming Languages*: Python, R, SQL, HTML
+- *Data Visualization & Analytical Tools*: Power BI, MS Excel
+- *Statistical & Econometric Techniques*: Econometrics, Regression analysis, Time series analysis, Sentiment analysis 
+- *Supporting Technologies*: JIRA, LaTex, GitHub
+- *Non-Technical Skills*: Analytical Thinking, Data Interpretation, Communication, Leadership, Time Management, Presentation
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
