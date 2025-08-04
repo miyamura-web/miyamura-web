@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Niladri
 
-![Image](https://github.com/user-attachments/assets/b88b2895-becc-4a45-8d22-c43bb59ab597)
+![github](https://github.com/user-attachments/assets/49858a05-1219-4bee-b26b-6c7dbb055383)
 
 #### 🎓 *Economics and Management Student*  
 #### 💼 *Aspiring Research Analyst*  
