@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niladri
+# 👋 *Hi, I'm Niladri*
 
 ![github](https://github.com/user-attachments/assets/49858a05-1219-4bee-b26b-6c7dbb055383)
 
