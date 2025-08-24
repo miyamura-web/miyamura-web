@@ -49,3 +49,8 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 [![](https://visitcount.itsvg.in/api?id=miyamura-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+
+---
+
+
+
