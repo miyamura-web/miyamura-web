@@ -49,9 +49,7 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 [![](https://visitcount.itsvg.in/api?id=miyamura-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
----
-#### ** Snake eating my Contributions :)**
+### *🐍 Snake eating my Contributions :)*
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miyamura-web/miyamura-web/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brambhattabhishek/brambhattabhishek/output/github-snake.svg" />
