@@ -51,6 +51,10 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miyamura-web/miyamura-web/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brambhattabhishek/brambhattabhishek/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/miyamura-web/miyamura-web/output/github-snake.svg" />
+</picture>
 
 
