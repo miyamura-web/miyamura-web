@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 - *Programming Languages* : Python, R, SQL, HTML
 - *Data Visualization & Analytical Tools* : Power BI, MS Excel
 - *Statistical & Econometric Techniques* : Econometrics, Regression analysis, Time series analysis, Sentiment analysis 
-- *Supporting Technologies* : JIRA, LaTex, GitHub
+- *Supporting Technologies* : JIRA, LaTex, Git, GitHub
 - *Non-Technical Skills* : Analytical Thinking, Data Interpretation, Communication, Leadership, Time Management, Presentation
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
