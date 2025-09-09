@@ -16,7 +16,8 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 *Technical Skills*
-- *Programming Languages* : Python, R, SQL, HTML
+- *Programming Languages* : Python, R, HTML
+- *Database Management* : SQL [SSMS, PgSQL, MySQL], MongoDb
 - *Data Visualization & Analytical Tools* : Power BI, MS Excel
 - *Project Management Tools* : JIRA, Notion, Trello
 - *Version Control* : Git & GitHub
