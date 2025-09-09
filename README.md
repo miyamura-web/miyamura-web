@@ -18,9 +18,9 @@ Welcome to my GitHub profile! Here, you’ll find projects and resources that sh
 ## 💻 *Technical Skills*
 - *Programming Languages* : Python, R, SQL, HTML
 - *Data Visualization & Analytical Tools* : Power BI, MS Excel
-- *Statistical & Econometric Techniques* : Econometrics, Regression analysis, Time series analysis, Sentiment analysis 
 - *Project Management Tools* : JIRA, Notion, Trello
 - *Version Control* : Git & GitHub
+- *Statistical & Econometric Techniques* : Econometrics, Regression Analysis, Time Series Analysis, Sentiment Analysis, Financial Modelling, Hypothesis Testing, Predictive Modelling
 - *Non-Technical Skills* : Analytical Thinking, Data Interpretation, Communication, Leadership, Time Management, Presentation
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
